@@ -1,0 +1,46 @@
+_repo: Keep-Your-Shape_32346
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vidmer
+    aliases:
+    - Vidmer, Rene
+    - Vidmer, René
+    gutenberg_agent_id: '34106'
+    url: http://www.gutenberg.org/2009/agents/34106
+covers:
+- cover_type: archival
+  image_path: 32346-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - O'Donnevan, Finn
+    - Barbee, Phillips
+    - Lang, Ned
+    - Barbee, Phillip
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: For Pid and his shapeless crew of aliens, the green planet held unknown
+  horrors. Twenty previous teams had disappeared without a trace. Whatever horrors
+  waited for them, Pid could handle it because he could assume any shape--no matter
+  how alien--in the line of duty.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Keep Your Shape
+url: http://www.gutenberg.org/ebooks/32346
